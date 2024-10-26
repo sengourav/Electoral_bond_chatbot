@@ -1,9 +1,4 @@
-
----
-
 ### `USAGE_AGREEMENT.md`
-
-```markdown
 # Usage Agreement
 
 ## Introduction
@@ -22,7 +17,7 @@ Thank you for your interest in the Electoral Bond Data Chatbot. This project aim
    - It is the user’s responsibility to ensure that any downloaded data complies with applicable legal and regulatory requirements.
 
 3. **Prohibition of Commercial and Unauthorized Use**  
-   - The code and documentation in this repository are licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license.
+   - The code and documentation in this repository are licensed under the GNU GENERAL PUBLIC V3.0 license.
    - Commercial use, distribution, or modification of this code without explicit permission is strictly prohibited.
    - Any unauthorized attempts to modify the chatbot for commercial use, political advantage, or electoral manipulation are strictly forbidden.
 
@@ -42,5 +37,5 @@ If you have any questions or require clarification on these terms, please contac
 
 ---
 
-**License**: This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+**License**: This repository is licensed under the GNU GENERAL PUBLIC LICENSE (GPLv3).
 
