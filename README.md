@@ -17,6 +17,8 @@ The chatbot allows users to interact with and analyze publicly available elector
 - Tools for querying and analyzing specific data points.
 - Customizable for research, educational, and public information purposes.
 
+## Usage Agreement
+Please review the [Usage Agreement](USAGE_AGREEMENT.md) for guidelines on how this repository may be used.
 <!---
 // ## Getting Started
 
